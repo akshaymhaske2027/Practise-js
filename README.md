@@ -85,6 +85,11 @@ const c = function(){
 setInterval(c,1000)
 
 ```
-![UI](https://github.com/user-attachments/assets/826c8611-39e5-4c24-b6a9-a7945640b33d>
-)
+
+
+>Here is an image:
+
+![Clock Image](https://github.com/user-attachments/assets/826c8611-39e5-4c24-b6a9-a7945640b33d)
+
+
 
